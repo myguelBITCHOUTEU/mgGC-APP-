@@ -3,7 +3,7 @@ import pandas as pd
 import math, os
 from io import BytesIO
 from datetime import datetime
-from reportlab.lib.pagesizes import A4
+#from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
 from reportlab.lib.styles import getSampleStyleSheet
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, HRFlowable
